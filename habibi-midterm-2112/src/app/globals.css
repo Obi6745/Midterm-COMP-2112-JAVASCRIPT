@@ -1,0 +1,69 @@
+nav {
+
+ background-color: #7BAFD4;
+
+ color: #ffffff;
+
+ padding: 1rem;
+
+ display: flex;
+
+ flex-direction: column;
+
+}
+
+
+
+nav ul {
+
+  flex-direction: row;
+
+  gap: 1rem; 
+
+  display: flex;
+
+ }
+
+
+
+h1 {
+
+ font-weight: bold;
+
+ margin-bottom: 5px;
+
+ font-size: x-large;
+
+}
+
+
+
+main {
+
+ padding: 25px;
+
+}
+
+
+
+button {
+
+ background-color: #13294B;
+
+ color: #ffffff;
+
+ font-weight: 700;
+
+ border-radius: 0.25rem;
+
+ padding-top: 0.5rem;
+
+ padding-bottom: 0.5rem;
+
+ padding-left: 1rem;
+
+ padding-right: 1rem;
+
+ border: none;
+
+}
