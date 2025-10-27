@@ -1,4 +1,4 @@
-import CourseInfo from "../component/CourseInfo";
+import CourseInfo from "../components/CourseInfo";
 
 export default function Courses() {
   const courses = [
