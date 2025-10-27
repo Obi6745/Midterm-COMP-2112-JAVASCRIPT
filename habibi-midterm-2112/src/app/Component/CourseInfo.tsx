@@ -9,3 +9,5 @@ export default function CourseInfo({ courseName }: CourseInfoProps) {
     </li>
   );
 }
+
+
